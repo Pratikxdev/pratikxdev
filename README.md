@@ -87,7 +87,7 @@
 
 ✔ Automatic graph generation
 
-🔗 https://github.com/pikuwa/Habit-Tracking-System
+🔗 https://github.com/pikuwa/Habit-Tracker
 
 ---
 
@@ -123,20 +123,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pikuwa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pikuwa&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pikuwa&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 Certifications
 
 🏅 100 Days of Python Bootcamp – Dr. Angela Yu (Udemy)
@@ -167,9 +153,8 @@
 
 <div align="center">
 
-### 💡 Quote
 
-> **"Consistency beats talent when talent doesn't stay consistent."**
+ **"Consistency beats talent when talent doesn't stay consistent."**
 
 ⭐ Thanks for visiting my profile!
 
