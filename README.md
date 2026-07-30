@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Pratik Kumar Prajapati
 
-### Python Developer • Aspiring Data Analyst • REST API Developer • Problem Solver
+### Python Developer • Aspiring Data Analyst • REST API Developer • Problem Solver • Automation
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=Python+Developer;Aspiring+Data+Analyst;REST+API+Developer;Power+BI+Learner;Open+Source+Learner" />
 
@@ -23,16 +23,6 @@
 📊 Aspiring Data Analyst with hands-on experience in SQL, Excel, Power BI, Pandas and Matplotlib.
 
 📍 Ballia, Uttar Pradesh, India
-
----
-
-## 🌱 Currently Learning
-
-- SQL (Advanced)
-- Power BI
-- Data Analytics
-- AI Tools & AI Agents
-- Advanced Python
 
 ---
 
@@ -79,6 +69,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+![SQL Server Management Studio](https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
