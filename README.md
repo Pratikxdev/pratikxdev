@@ -194,36 +194,6 @@ A habit-tracking application that interacts with the Pixela API to record and vi
 
 🔗 [View Project](https://github.com/pratikxdev/Habit-Tracker)
 
-### 🏋️ 6. Workout Tracker
-
-**Tech Stack:** Python • Nutritionix API • Sheety API • Google Sheets
-
-An application that converts natural-language exercise descriptions into workout records.
-
-**Project Highlights**
-
-* Exercise information extraction through an API
-* Workout duration and calorie information
-* Automated Google Sheets logging
-* REST API integration and JSON parsing
-
-🔗 [View Project](https://github.com/pratikxdev/Workout-Tracker)
-
-### 🃏 7. Vocabulary Flash Card App
-
-**Tech Stack:** Python • Tkinter • Pandas • CSV
-
-A desktop application designed to help users learn vocabulary through interactive flashcards.
-
-**Project Highlights**
-
-* Interactive flashcard interface
-* English-to-Hindi vocabulary learning
-* Timed card flipping
-* CSV-based vocabulary management
-
-🔗 [View Project](https://github.com/pratikxdev/Vocabulary-Flash-Card-App)
-
 ---
 
 ## 💼 Internship Experience
